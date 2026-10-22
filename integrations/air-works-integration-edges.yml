@@ -1,0 +1,16 @@
+generated: '2026-10-22'
+method: none
+source:
+- https://zapier.com/apps/air-works/integrations
+- https://n8n.io/integrations/air-works/
+- https://composio.dev/toolkits/air-works
+- https://monid.ai/tools/air-works
+checked:
+- https://composio.dev/toolkits/air-works
+- https://monid.ai/tools/air-works
+- https://n8n.io/integrations/air-works/
+- https://zapier.com/apps/air-works/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
